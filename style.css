@@ -1,0 +1,161 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #f8f8f8;
+}
+
+.topo-esquerdo {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.menu-icon {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+
+.youtube-logo {
+  width: 90px; /* ou 80px, dependendo do tamanho desejado */
+  height: auto;
+}
+
+
+.icons-topo {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.icons-topo img {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+
+.icons-topo .avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+
+header input {
+  width: 50%;
+  padding: 8px;
+}
+
+header .user {
+  font-size: 20px;
+}
+
+main {
+  display: flex;
+  padding: 20px;
+}
+
+.video-principal {
+  flex: 3;
+  padding-right: 20px;
+}
+
+.video-principal img {
+  width: 100%;
+  height: auto;
+}
+
+.info-video {
+  margin-top: 20px;
+}
+
+.linha-superior {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.canal {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.canal img {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
+
+.btn-inscreva {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  font-weight: bold;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.acoes {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-shrink: 0;
+}
+
+.acao {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+
+.acao img {
+  width: 20px;
+  height: 20px;
+}
+
+.descricao {
+  font-size: 14px;
+  color: #555;
+}
+
+.videos-laterais {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 196px;
+  height: 89px;
+  left: 176px
+}
+
+
+.video-lateral {
+  display: flex;
+  gap: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.video-lateral img {
+  width: 160px;
+  height: 90px;
+  object-fit: cover;
+}
+
+.video-lateral div {
+  font-size: 14px;
+}

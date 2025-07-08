@@ -1,0 +1,5 @@
+# Desafio Clonar ppágina do Youtube
+
+Desafio do curso de CSS da Digital inovation One (DIO) :rocket:
+
+Ainda resta fazer alguns ajustes finais qua atualizarei posteriormente. :smile:
