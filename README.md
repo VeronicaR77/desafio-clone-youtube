@@ -2,4 +2,4 @@
 
 Desafio do curso de CSS da Digital inovation One (DIO) :rocket:
 
-Ainda resta fazer alguns ajustes finais qua atualizarei posteriormente. :smile:
+Ainda resta fazer alguns ajustes finais que atualizarei posteriormente. :smile:
