@@ -1,4 +1,4 @@
-# Desafio Clonar ppágina do Youtube
+# Desafio Clonar página do Youtube
 
 Desafio do curso de CSS da Digital inovation One (DIO) :rocket:
 
